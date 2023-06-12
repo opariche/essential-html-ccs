@@ -22,17 +22,17 @@ body {
 }
 
 .hero {
-  background-image: linear-gradient(to top, #7a2cbf9d, transparent), url(../img/fondohero.png);
+  background-image: linear-gradient(to top, #2d0eb89d, transparent), url(../img/logo\ banner\ oscar.jpg);
   /* background-image: linear-gradient(to top, #7a2cbf9d, transparent), url(../img/webdeveloper.jpg); */
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 100%;
-  block-size: 50px;
-}
+  background-size: 70%;
+  block-size: 60px;
 
+    }
 h1 {
   font-size: 40px;
-  margin-block-start: 20px;
+  margin-block-start: 50px;
   margin-block-end: 16px;
   font-weight: normal;
 }
