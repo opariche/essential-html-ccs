@@ -26,7 +26,7 @@ body {
   /* background-image: linear-gradient(to top, #7a2cbf9d, transparent), url(../img/webdeveloper.jpg); */
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 70%;
+  background-size: cover;
   block-size: 60px;
 
     }
